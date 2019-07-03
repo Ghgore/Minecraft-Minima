@@ -2,7 +2,7 @@
 > A minimal pack without compromising fun
 
 ![GitHub release](https://img.shields.io/github/release/ghgore/Minecraft-Minima.svg)
-[![](https://cf.way2muchnoise.eu/versions/jei.svg)]
+![](https://cf.way2muchnoise.eu/versions/jei.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ghgore/Minecraft-Minima.svg)
 
 This is a minimal modpack designed to be light on mods while still having plenty of added features and fun from those mods. 
