@@ -13,11 +13,11 @@ This is a minimal modpack designed to be light on mods while still having plenty
 
 MultiMC:
 
-
+Download the latest .zip file with "MMC" in the name [here](https://github.com/Ghgore/Minecraft-Minima/releases), and then import it into MultiMC by going to "Add Instance" at the top left, and then choosing the "Import from zip" option. 
 
 Twitch:
 
-
+Coming soon™
 
 ## Usage example
 
