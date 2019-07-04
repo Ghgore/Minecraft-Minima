@@ -4,7 +4,7 @@ title: Homepage
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/MinimaLogo.png"
+  logo: "https://github.com/Ghgore/Minecraft-Minima/uploads/MinimaLogo.png"
   navigation:
   - link: "https://github.com/Ghgore/Minecraft-Minima/wiki/Mod-List"
     link_text: Mod List
@@ -20,7 +20,7 @@ page_sections:
     url: https://github.com/Ghgore/Minecraft-Minima
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/Screenshot.png"
+    image: "https://github.com/Ghgore/Minecraft-Minima/uploads/Screenshot.png"
     alt_text: Screenshot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
