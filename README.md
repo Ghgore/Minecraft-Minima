@@ -11,19 +11,17 @@ This is a minimal modpack designed to be light on mods while still having plenty
 
 ## Installation
 
-MultiMC:
+*MultiMC:*
 
 Download the latest .zip file with "MMC" in the name [here](https://github.com/Ghgore/Minecraft-Minima/releases), and then import it into MultiMC by going to "Add Instance" at the top left, and then choosing the "Import from zip" option. 
 
-Twitch:
+*Twitch:*
 
 Coming soon™
 
-## Usage example
+## Mod list
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
+_For the mod list, please refer to the [Wiki][wiki]._
 
 ## Release History
 
@@ -66,4 +64,4 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
-[wiki]: https://github.com/yourname/yourproject/wiki
+[wiki]: https://github.com/ghgore/Minecraft-Minima/wiki
