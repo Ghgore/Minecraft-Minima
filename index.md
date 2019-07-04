@@ -9,14 +9,14 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#"
+  - link: "http://ghgore.com/Minecraft-Minima/"
     link_text: Features
   - link: "#"
     link_text: Pricing
   - link: "#"
     link_text: Team
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
+    url: https://github.com/Ghgore/Minecraft-Minima/releases
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
