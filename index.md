@@ -59,7 +59,7 @@ page_sections:
   content: <p>MultiMC is the easiest way to play my pack, as you simply upload a zip file, and as a bonus it's a free and open-source program :)</p><ol><li><p>Download the file from GitHub releases which can be found <a href="https://github.com/Ghgore/Minecraft-Minima/releases">here</a></p></li><li><p>Click on the "Add Instance" button at the top left</p></li><li><p>Choose the "Import from zip" option and find the location of your zip file</p></li><li><p>Click "Launch" and enjoy the modpack :)</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Template by [Forestry.io](https://forestry.io/) - Modpack by [Ghgore](https://ghgore.com)
+  content: Template by <a href="https://forestry.io/">Forestry.io</a> - Modpack by <a href="https://ghgore.com">Ghgore</a>
 ---
 
 foo bar
