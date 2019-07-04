@@ -21,7 +21,7 @@ Coming soon™
 
 ## Mod list
 
-_For the mod list, please refer to the [Wiki][wiki]._
+_For the mod list, please refer to the [Wiki][mod-list]._
 
 ## Release History
 
@@ -64,4 +64,4 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
-[wiki]: https://github.com/ghgore/Minecraft-Minima/wiki
+[mod-list]: https://github.com/ghgore/Minecraft-Minima/wiki/Mod-List
