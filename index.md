@@ -7,12 +7,12 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: "/"
-    link_text: Home
   - link: "http://ghgore.com/Minecraft-Minima/"
+    link_text: Home
+  - link: "https://ghgore.com/Minecraft-Minima/features"
     link_text: Features
-  - link: "#"
-    link_text: Pricing
+  - link: "https://github.com/Ghgore/Minecraft-Minima/wiki/Mod-List"
+    link_text: Mod List
   - link: "#"
     link_text: Team
   cta:
@@ -25,7 +25,7 @@ page_sections:
     content manager.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: https://github.com/Ghgore/Minecraft-Minima
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
