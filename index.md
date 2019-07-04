@@ -1,28 +1,20 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: "http://ghgore.com/Minecraft-Minima/"
-    link_text: Home
-  - link: "https://ghgore.com/Minecraft-Minima/features"
-    link_text: Features
   - link: "https://github.com/Ghgore/Minecraft-Minima/wiki/Mod-List"
     link_text: Mod List
-  - link: "#"
-    link_text: Team
   cta:
     url: https://github.com/Ghgore/Minecraft-Minima/releases
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: Minima <br><strong>Minecraft Modpack</strong>
+  content: This is a minimal modpack designed to be light on mods while still having plenty of added features and fun from those mods.
   cta:
     enabled: true
     url: https://github.com/Ghgore/Minecraft-Minima
@@ -63,15 +55,8 @@ page_sections:
   caption: All Available Blocks
 - template: detail-content
   block: text-1
-  headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based theme that doubles as a builder
-    tool inside the Forestry content manager. It's easy to get started!</p><ol><li><p>Fork
-    the <a href="https://github.com/forestryio/ubuild-jekyll">repo</a> and import
-    the site into <a href="https://forestry.io/">Forestry</a> (or use <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks#even-quicker-start">our
-    magic button</a>).</p></li><li><p>Click on 'Add New' in Forestry and select the
-    Page-Builder template.</p></li><li><p>Add and customize the available Blocks and
-    preview them as you go along.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li></ol>
+  headline: Steps to install with MultiMC
+  content: <p>MultiMC is the easiest way to play my pack, as you simply upload a zip file, and as a bonus it's a free and open-source program :)</p><ol><li><p>Download the file from GitHub releases which can be found <a href="https://github.com/Ghgore/Minecraft-Minima/releases">here</a></p></li><li><p>Click on the "Add Instance" button at the top left</p></li><li><p>Choose the "Import from zip" option and find the location of your zip file</p></li><li><p>Click "Launch" and enjoy the modpack :)</p></li></ol>
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
