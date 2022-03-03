@@ -50,6 +50,7 @@ _For the mod list, please refer to the [Wiki][mod-list]._
 ## Meta
 
 Griffin Gore – [@Ghgore_](https://twitter.com/Ghgore_) - [Curse Profile](https://www.curseforge.com/members/ghgore/projects)
+griffin@ghgore.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
